@@ -72,7 +72,7 @@ Reach out to the maintainer at one of the following places:
 
 If you want to say **thank you** or/and support active development of AdrishMusicBot:
 
-- Add a [GitHub Star](https://github.com/MrAdrish18/AdrishMusic) to the project.
+- Add a [GitHub Star](https://github.com/TeamAdrush/AdrishXMusic) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
