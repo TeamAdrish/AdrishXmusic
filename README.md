@@ -47,7 +47,8 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- Generate a Pyrogram String Session via 
+[![Telegram String Generation Bot](https://te.legra.ph/file/24500327c4e162e2097af.jpg)](https://t.me/YukkiStringBot)
 
 
 ## 🚀 Heroku Deployment
