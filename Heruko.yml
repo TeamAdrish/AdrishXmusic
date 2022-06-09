@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Docufile
+    worker: Docufiles
 run:
   worker: python3 -m modules
