@@ -64,7 +64,7 @@
             "value": "https://github.com/teamadrish/adrishxmusic"
         },
         "STRING_SESSION": {
-            "description": "ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ"(GET FROM REPLIT)",
+            "description": "ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ",
             "required": true
         },
         "SUDO_USERS": {
