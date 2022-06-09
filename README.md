@@ -52,12 +52,12 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🚀 Heroku Deployment
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adityabots/tgmusicbot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamadrish/adrishxmusic)
 
 
 ## 😍 Owner of this repo
 
-[![Adrish God](https://te.legra.ph/file/d2c335b2738dee89713c6.jpg)](https://t.me/AdityaHalder)
+[![Adrish God](https://te.legra.ph/file/d2c335b2738dee89713c6.jpg)](https://t.me/Adrish_Owner)
 
 
 ## 🏷 Support
