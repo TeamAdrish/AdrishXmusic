@@ -1,0 +1,95 @@
+{
+    "name": "𝗔𝗱𝗿𝗶𝘀𝗵𝗫𝗺𝘂𝘀𝗶𝗰",
+    "logo": "https://te.legra.ph/file/c01afb43a37fa072503e5.jpg",
+    "description": "❣️🥀ᴀᴅʀɪsʜ ᴍᴜsɪᴄ ʙᴏᴛ ɪs ʙᴇsᴛ ᴀɴᴅ sᴜᴘᴇʀғᴀsᴛ ᴍᴜsɪᴄ ʙᴏᴛ✨",
+    "keywords": ["adrishxmusic", "voice chat", "telegram"],
+    "repository": "https://github.com/teamadrish/adrishxmusic",
+    "stack": "container",
+    "env": {
+        "API_HASH": {
+            "description": "ᴀᴘɪ ʜᴀsʜ ᴏғ ʏᴏᴜʀ ᴍᴜsɪᴄ ᴀssɪsᴛᴀɴᴛ",
+            "required": true
+        },
+        "API_ID": {
+            "description": "ᴀᴘɪ ɪᴅ ᴏғ ʏᴏᴜʀ ᴍᴜsɪᴄ ᴀssɪsᴛᴀɴᴛ",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "ʏᴏᴜʀ ᴍᴜsɪᴄ ᴀssɪsᴛᴀɴᴛ ɴᴀᴍᴇ",
+            "required": true,
+            "value": "Adrish1Music"
+        },
+        "ASSISTANT_USERNAME": {
+            "description": "ʏᴏᴜʀ ᴍᴜsɪᴄ ᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ (ᴡɪᴛʜᴏᴜᴛ '@')",
+            "required": true,
+            "value": "adrish1music"
+        },
+        "BOT_IMAGE": {
+            "description": "ɪᴍᴀɢᴇ ᴛʜᴜᴍʙɴᴀɪʟs ʟɪɴᴋ ᴏғ ʏᴏᴜ ᴍᴜsɪᴄ",
+            "required": true,
+            "value": "https://te.legra.ph/file/bcac4ce2a546c8012ebfa.jpg"
+        },
+        "BOT_NAME": {
+            "description": "ʏᴏᴜʀ ᴍᴜsɪᴄ ʙᴏᴛ ɴᴀᴍᴇ",
+            "required": true,
+            "value": "Adrish1music"
+        },
+        "BOT_TOKEN": {
+            "description": "ɢᴇᴛ ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏғ ʏᴏᴜʀ ᴍᴜsɪᴄ ʙᴏᴛ",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "ᴍᴜsɪᴄ ʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ (ᴡɪᴛʜᴏᴜᴛ @)",
+            "required": true,
+            "value": "adrish1bot"
+        },
+        "DURATION_LIMIT": {
+            "description": "sᴇᴛ ᴍᴀxɪᴍᴜᴍ ᴍᴜsɪᴄ ʟɪᴍɪᴛ ɪɴ ᴍɪɴᴜᴛᴇs",
+            "required": true,
+            "value": "60"
+        },
+        "OWNER_NAME": {
+            "description": "ɴᴀᴍᴇ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴏᴡɴᴇʀ",
+            "required": true,
+            "value": "AdrishXGod"
+        },
+        "OWNER_USERNAME": {
+            "description": "ᴜsᴇʀɴᴀᴍᴇ ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ ᴏᴡɴᴇʀ",
+            "required": true,
+            "value": "AdrishXgod"
+        },
+        "SOURCE_CODE": {
+            "description": "ᴍᴜsɪᴄ ʙᴏᴛ ʟɪɴᴋ ᴏғ ʀᴇᴘᴏsɪᴛᴏʀʏ",
+            "required": true,
+            "value": "https://github.com/teamadrish/adrishxmusic"
+        },
+        "STRING_SESSION": {
+            "description": "ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ"(GET FROM REPLIT)",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "sᴜᴅᴏ ᴜsᴇʀ ᴡʜᴏ ᴄᴏɴᴛʀᴏʟ ʙᴏᴛ",
+            "required": true,
+            "value": "134975322"
+            
+        },
+        "SUPPORT_GROUP": {
+            "description": "ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴜʟʟ ʟɪɴᴋ",
+            "required": true,
+            "value": "https://t.me/AdrishMusicSupport"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ ғᴜʟʟ ʟɪɴᴋ",
+            "required": true,
+            "value": "https://t.meAdrishMusicUpdatese"
+        }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}
