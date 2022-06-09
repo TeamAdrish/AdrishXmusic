@@ -52,8 +52,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🚀 Heroku Deployment
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
-template=https://github.com/TeamAdrish/AadrishXmusic)
+- [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?- template=https://github.com/TeamAdrish/AadrishXmusic)
 
 
 ## 🏷 Support
