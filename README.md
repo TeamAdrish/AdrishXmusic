@@ -4,7 +4,7 @@
 
 # Adrish X Music Bot <img src="https://img.shields.io/github/v/release/MrAdrish18/AdrishMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Adrish Music Bot](https://github.com/TeamAdrish/AdrishXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Adrish X Music Bot](https://github.com/TeamAdrish/AdrishXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -51,8 +51,9 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 
 ## 🚀 Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
-template=https://github.com/TeamAdrish/AadrishXmusic)
+
+    [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
+    template=https://github.com/TeamAdrish/AadrishXmusic)
 
 
 ## 🏷 Support
